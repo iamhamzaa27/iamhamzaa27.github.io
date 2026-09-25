@@ -1,0 +1,42 @@
+{
+  "tools": [
+    {
+      "id": "research-stack",
+      "navLabel": "Research Stack",
+      "navIcon": "fas fa-atom",
+      "title": "Quantum & AI Research Stack",
+      "description": "Tools and frameworks used for quantum-circuit optimization, hybrid quantum-classical learning, deep learning, and reproducible research.",
+      "badges": [
+        {"label": "Qiskit", "variant": "impact-factor"},
+        {"label": "PennyLane", "variant": "impact-factor"},
+        {"label": "PyTorch", "variant": "corresponding"},
+        {"label": "TensorFlow", "variant": "corresponding"},
+        {"label": "Python", "variant": "editor-choice"}
+      ],
+      "actions": [
+        {"label": "GitHub Profile", "icon": "fab fa-github", "href": "https://github.com/iamhamzaa27"}
+      ],
+      "sections": [
+        {
+          "type": "info",
+          "title": "Research Workflow",
+          "paragraphs": [
+            "The research stack combines Qiskit and PennyLane for quantum and hybrid quantum-classical experiments with PyTorch, TensorFlow, and Scikit-learn for classical learning, reinforcement learning, and benchmarking.",
+            "Python, GPU/CUDA programming, PostgreSQL, and LaTeX support experimentation, data handling, technical visualization, and reproducible research documentation."
+          ]
+        },
+        {
+          "type": "features",
+          "title": "Core Capabilities",
+          "items": [
+            {"icon": "fas fa-atom", "html": "Variational quantum-circuit implementation and optimization"},
+            {"icon": "fas fa-robot", "html": "Reinforcement learning and agentic decision systems"},
+            {"icon": "fas fa-brain", "html": "Deep-learning and hybrid quantum-classical modelling"},
+            {"icon": "fas fa-chart-line", "html": "Performance benchmarking and reproducible experiments"}
+          ]
+        }
+      ],
+      "featured": true
+    }
+  ]
+}

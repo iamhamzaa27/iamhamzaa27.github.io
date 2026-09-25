@@ -1,0 +1,60 @@
+{
+  "research_projects": [
+    {
+      "id": "project_ris_los",
+      "title": "Agentic AI for RIS/LOS Communication Switching",
+      "duration": "2025 - Present",
+      "display_order": 1,
+      "role": "Graduate Researcher",
+      "status": "Ongoing",
+      "funding_source": "Kyung Hee University / CQILAB",
+      "icon": "fas fa-tower-broadcast",
+      "description": "An intelligent decision framework for RIS/LOS switching under blockage conditions in mmWave communication systems.",
+      "objectives": [
+        "Predict blockage from beam-power sequences and visual information.",
+        "Combine CNN prediction, YOLO vehicle detection, and historical link states.",
+        "Support autonomous RIS/LOS switching decisions."
+      ],
+      "technologies": ["Agentic AI", "CNN", "YOLO", "RIS", "mmWave", "Deep Learning"],
+      "featured": false,
+      "supervisor": "Prof. Hyundong Shin"
+    }
+  ],
+  "student_projects": [
+    {
+      "id": "project_vending_interaction",
+      "title": "Human-Vending Machine Interaction Detection",
+      "duration": "2023",
+      "display_order": 3,
+      "role": "Machine Learning Project Researcher",
+      "status": "Completed",
+      "funding_source": "National University of Sciences and Technology",
+      "icon": "fas fa-store",
+      "description": "A computer-vision system that predicts whether a person is interacting with a vending machine. Real-world video data were collected, labelled, and used to train a CNN-based binary interaction detector.",
+      "objectives": [
+        "Detect human interaction and non-interaction with a vending machine.",
+        "Automate analysis of vending-machine engagement from camera footage.",
+        "Support insights into user behaviour, machine placement, and product availability."
+      ],
+      "technologies": ["Python", "TensorFlow", "Keras", "Convolutional Neural Networks", "Computer Vision", "Binary Classification"],
+      "outcomes": ["Built a working interaction detector and documented future improvements for interaction counting, expanded data collection, transfer learning, and real-time tracking."],
+      "link": "https://github.com/iamhamzaa27/Human-Object-Interaction-using-Computer-Vision",
+      "linkLabel": "View on GitHub",
+      "featured": true
+    },
+    {
+      "id": "project_violence_detection",
+      "title": "Violence Detection using Deep Learning and ResNet-50",
+      "duration": "2024",
+      "display_order": 2,
+      "role": "Final-Year Project Researcher",
+      "status": "Completed",
+      "funding_source": "National University of Sciences and Technology",
+      "icon": "fas fa-eye",
+      "description": "Electrical Engineering final-year project applying deep learning and ResNet-50 to violence detection.",
+      "technologies": ["Deep Learning", "ResNet-50", "Computer Vision", "Python"],
+      "featured": true
+    }
+  ],
+  "collaboration_projects": []
+}

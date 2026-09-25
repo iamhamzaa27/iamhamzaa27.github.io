@@ -1,0 +1,31 @@
+{
+  "journals": [],
+  "conferences": [],
+  "korean_conferences": [
+    {
+      "id": "kics_2025_02",
+      "title": "Adaptive Quantum Autoencoders for Violence Detection in Surveillance Videos",
+      "topics": ["Quantum Autoencoders", "Violence Detection", "Computer Vision", "Quantum Machine Learning"],
+      "authors": ["A. Mobusher", "Muhammad Hamza", "A. U. Haque", "Hyundong Shin"],
+      "year": 2025,
+      "conference": "Korea Information and Communications Society (KICS) Conference Proceedings",
+      "location": "Korea",
+      "type": "Conference Proceeding",
+      "pages": "436-437",
+      "featured": true
+    },
+    {
+      "id": "kics_2025_01",
+      "title": "Adaptive Quantum Circuit Pruning with Reinforcement Learning",
+      "topics": ["Quantum Circuit Optimization", "Reinforcement Learning", "Variational Quantum Circuits"],
+      "authors": ["Muhammad Hamza", "M. M. U. Gondel", "Hyundong Shin"],
+      "year": 2025,
+      "conference": "Korea Information and Communications Society (KICS) Conference",
+      "location": "Korea",
+      "type": "Conference Proceeding",
+      "pages": "432-433",
+      "featured": true
+    }
+  ],
+  "technical_reports": []
+}

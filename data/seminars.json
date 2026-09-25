@@ -1,0 +1,15 @@
+{
+  "seminars": [
+    {
+      "id": "seminar_cqilab_research",
+      "title": "Quantum Information, Quantum Machine Learning, AI, and Next-Generation Communications",
+      "type": "Research Seminar",
+      "role": "Presenter",
+      "organizer": "Communications and Quantum Information Laboratory (CQILAB)",
+      "date": "2025-Present",
+      "location": "Kyung Hee University, South Korea",
+      "description": "Literature reviews and research seminars delivered as part of graduate research activities at CQILAB.",
+      "topics": ["Quantum Information", "Quantum Machine Learning", "Artificial Intelligence", "Next-Generation Communications"]
+    }
+  ]
+}

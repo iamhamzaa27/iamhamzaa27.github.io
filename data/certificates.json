@@ -1,0 +1,36 @@
+{
+  "awards": [
+    {
+      "id": "award_bk21_2025",
+      "title": "MS Research Scholarship",
+      "issuer": "Brain Korea 21 Plus",
+      "date": "2025-2027",
+      "type": "Research Scholarship",
+      "description": "Research scholarship supporting master's studies and research at Kyung Hee University.",
+      "icon": "fas fa-award",
+      "featured": true
+    },
+    {
+      "id": "award_khu_2025",
+      "title": "Graduate Student Scholarship",
+      "issuer": "Kyung Hee University",
+      "date": "2025-2027",
+      "type": "Scholarship",
+      "description": "Graduate student scholarship for master's studies at Kyung Hee University.",
+      "icon": "fas fa-graduation-cap",
+      "featured": true
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert_kubernetes_2024",
+      "title": "Certified Kubernetes Application Developer (CKAD) and Certified Kubernetes Administrator (CKA)",
+      "issuer": "The Linux Foundation",
+      "date": "March-May 2024",
+      "category": "Cloud-Native Computing",
+      "description": "Kubernetes application development and cluster administration certifications.",
+      "skills": ["Kubernetes", "Cloud-Native Applications", "Cluster Administration"],
+      "featured": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "organizations": {
+    "khu": {
+      "name": "Kyung Hee University",
+      "logo": "assets/logos/organizations/kyung-hee-university-logo.png",
+      "icon": "fas fa-university",
+      "website": "https://www.khu.ac.kr/",
+      "department": "Department of Electronics and Information Convergence Engineering"
+    }
+  },
+  "academic_experience": [
+    {
+      "id": "exp_khu_2025",
+      "position": "Graduate Research Assistant",
+      "organization": "Kyung Hee University",
+      "logo": "assets/logos/organizations/kyung-hee-university-logo.png",
+      "icon": "fas fa-atom",
+      "department": "Department of Electronics and Information Convergence Engineering",
+      "duration": "March 2025 - February 2027 (Expected)",
+      "location": "Yongin-si, South Korea",
+      "website": "https://www.khu.ac.kr/",
+      "group": "khu",
+      "unit": "Communications and Quantum Information Laboratory (CQILAB)",
+      "unit_website": "https://cqilab.khu.ac.kr/",
+      "primary_responsibilities": [
+        "Conduct research in quantum information science, quantum machine learning, reinforcement learning, and intelligent communication systems.",
+        "Develop reinforcement learning-based methods for adaptive quantum circuit pruning while preserving state fidelity and model performance.",
+        "Implement and evaluate hybrid quantum-classical and classical machine-learning models using Qiskit, PyTorch, TensorFlow, and Python.",
+        "Develop AI decision frameworks for wireless communication systems using beam-power sequences, CNNs, object detection, and historical link-state information.",
+        "Investigate large language models and few-shot prompting for sequence-based blockage classification."
+      ]
+    }
+  ],
+  "industry_experience": [
+    {
+      "id": "exp_zong_2024",
+      "position": "Project Management Operations and Software Intern / Engineer",
+      "organization": "CMPak Zong",
+      "logo": "assets/logos/organizations/zong-logo.png",
+      "icon": "fas fa-tower-broadcast",
+      "department": "Telecommunications Sector",
+      "duration": "October 2024 - March 2025",
+      "location": "Pakistan",
+      "website": "https://www.zong.com.pk/",
+      "primary_responsibilities": [
+        "Supported telecom project coordination, documentation, tracking, and operational workflows.",
+        "Worked on PostgreSQL database management, data handling, and backend system maintenance.",
+        "Collaborated across project-management, software, and engineering teams."
+      ]
+    }
+  ]
+}

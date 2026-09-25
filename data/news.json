@@ -1,0 +1,48 @@
+[
+  {
+    "id": 4,
+    "date": "2025",
+    "icon": "fas fa-file-alt",
+    "type": "Publication",
+    "title": "Adaptive Quantum Autoencoders for Violence Detection in Surveillance Videos",
+    "summary": "Published in the 2025 Korea Information and Communications Society Conference Proceedings.",
+    "details": "Co-authored with A. Mobusher, A. U. Haque, and Hyundong Shin. The paper appears on pages 436-437 of the KICS conference proceedings.",
+    "importance": "high",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "date": "2025",
+    "icon": "fas fa-file-alt",
+    "type": "Publication",
+    "title": "Adaptive Quantum Circuit Pruning with Reinforcement Learning",
+    "summary": "Conference paper presented in the proceedings of the Korea Information and Communications Society Conference.",
+    "details": "Co-authored with M. M. U. Gondel and Hyundong Shin, this work develops a reinforcement learning approach for adaptive variational quantum-circuit pruning.",
+    "importance": "high",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "date": "2025/03",
+    "icon": "fas fa-atom",
+    "type": "Research Position",
+    "title": "Joined CQILAB as a Graduate Research Assistant",
+    "summary": "Began graduate research at Kyung Hee University in quantum information science, AI, and intelligent communication systems.",
+    "details": "Joined the Communications and Quantum Information Laboratory in the Department of Electronics and Information Convergence Engineering under Prof. Hyundong Shin.",
+    "importance": "high",
+    "link": "https://cqilab.khu.ac.kr/",
+    "linkLabel": "Visit CQILAB",
+    "featured": true
+  },
+  {
+    "id": 1,
+    "date": "2024/06",
+    "icon": "fas fa-graduation-cap",
+    "type": "Education",
+    "title": "Completed Bachelor's degree in Electrical Engineering",
+    "summary": "Graduated from the National University of Sciences and Technology in Pakistan.",
+    "details": "Completed a final-year project on violence detection using deep learning and ResNet-50.",
+    "importance": "medium",
+    "featured": true
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "quantum_computing": {
+    "title": "Quantum Computing",
+    "icon": "fas fa-atom",
+    "skills": [
+      {"name": "Quantum Circuit Optimization", "level": "Research Experience", "description": "Adaptive optimization and pruning of variational quantum circuits."},
+      {"name": "Variational Quantum Circuits", "level": "Research Experience", "description": "Design and evaluation of parameterized quantum circuits."},
+      {"name": "Qiskit", "level": "Research Experience", "description": "Quantum-circuit implementation and experimentation."},
+      {"name": "PennyLane", "level": "Research Experience", "description": "Hybrid quantum-classical model development."}
+    ]
+  },
+  "ai_ml": {
+    "title": "AI & Machine Learning",
+    "icon": "fas fa-brain",
+    "skills": [
+      {"name": "Reinforcement Learning", "level": "Research Experience", "description": "Adaptive quantum-circuit and decision-system optimization."},
+      {"name": "Deep Learning", "level": "Research Experience", "description": "CNN, ResNet-50, and sequence-classification applications."},
+      {"name": "Hybrid Quantum-Classical Machine Learning", "level": "Research Experience", "description": "Quantum and classical learning pipelines."},
+      {"name": "Large Language Models", "level": "Research Experience", "description": "Few-shot prompting for sequence-based blockage classification."},
+      {"name": "Agentic AI", "level": "Research Experience", "description": "Autonomous decision frameworks for intelligent communication systems."},
+      {"name": "Scikit-learn", "level": "Listed in CV", "description": "Classical machine-learning workflows."}
+    ]
+  },
+  "programming": {
+    "title": "Programming & Frameworks",
+    "icon": "fas fa-code",
+    "skills": [
+      {"name": "Python", "level": "Research Experience", "description": "Primary language for quantum computing, AI, and data workflows."},
+      {"name": "PyTorch", "level": "Research Experience", "description": "Deep-learning model implementation and experimentation."},
+      {"name": "TensorFlow", "level": "Research Experience", "description": "Machine-learning model implementation and evaluation."},
+      {"name": "GPU / CUDA Programming", "level": "Listed in CV", "description": "Accelerated computing for model training and experiments."},
+      {"name": "PostgreSQL", "level": "Professional Experience", "description": "Database management and backend data handling at CMPak Zong."},
+      {"name": "LaTeX", "level": "Listed in CV", "description": "Research writing and technical documentation."}
+    ]
+  },
+  "communications": {
+    "title": "Intelligent Communication Systems",
+    "icon": "fas fa-tower-broadcast",
+    "skills": [
+      {"name": "RIS / LOS Switching", "level": "Research Experience", "description": "AI-assisted link selection under blockage conditions."},
+      {"name": "mmWave Communications", "level": "Research Experience", "description": "Blockage-aware intelligent wireless communication."},
+      {"name": "Beam-Power Sequence Analysis", "level": "Research Experience", "description": "Sequence-based prediction for communication-system decisions."},
+      {"name": "YOLO Object Detection", "level": "Research Experience", "description": "Vehicle detection for blockage-aware switching."}
+    ]
+  },
+  "sensing": {
+    "title": "Quantum & Classical Sensing",
+    "icon": "fas fa-wave-square",
+    "skills": [
+      {"name": "Quantum Sensing", "level": "Research Interest", "description": "Quantum-information methods for emerging sensing systems."},
+      {"name": "Classical Sensing", "level": "Research Interest", "description": "Classical sensor data and AI-assisted inference for intelligent systems."}
+    ]
+  }
+}

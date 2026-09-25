@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Research",
+    "date": "2025",
+    "icon": "fas fa-atom",
+    "title": "Adaptive Quantum Circuit Pruning with Reinforcement Learning",
+    "detail": "Developed an adaptive reinforcement learning framework that reduces variational quantum-circuit gate complexity while preserving state fidelity and model performance.",
+    "link": "#publications",
+    "linkLabel": "View publication",
+    "featured": true
+  },
+  {
+    "type": "Research",
+    "date": "2025",
+    "icon": "fas fa-video",
+    "title": "Adaptive Quantum Autoencoders for Violence Detection in Surveillance Videos",
+    "detail": "Published in the 2025 Korea Information and Communications Society Conference Proceedings, pages 436-437.",
+    "link": "#publications",
+    "linkLabel": "View publication",
+    "featured": true
+  },
+  {
+    "type": "Education",
+    "date": "2025",
+    "icon": "fas fa-graduation-cap",
+    "title": "Started M.S. studies at Kyung Hee University",
+    "detail": "Joined the Department of Electronics and Information Convergence Engineering and CQILAB under Prof. Hyundong Shin.",
+    "link": "#education",
+    "linkLabel": "View education",
+    "featured": true
+  }
+]

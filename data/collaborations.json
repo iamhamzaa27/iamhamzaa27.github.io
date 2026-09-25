@@ -1,0 +1,23 @@
+{
+  "center": {
+    "name": "Muhammad Hamza",
+    "shortName": "Muhammad Hamza",
+    "university": "Kyung Hee University",
+    "country": "South Korea",
+    "lat": 37.2464,
+    "lng": 127.0809
+  },
+  "note": "Co-authorship information is derived only from the publications listed in data/publications.json. Affiliations are included only when established by the CV.",
+  "byAuthor": [
+    {"name": "Hyundong Shin", "papers": 2, "university": "Kyung Hee University", "country": "South Korea"},
+    {"name": "M. M. U. Gondel", "papers": 1},
+    {"name": "A. Mobusher", "papers": 1},
+    {"name": "A. U. Haque", "papers": 1}
+  ],
+  "byUniversity": [
+    {"name": "Kyung Hee University", "papers": 2, "authors": 1, "country": "South Korea"}
+  ],
+  "byCountry": [
+    {"name": "South Korea", "papers": 2, "authors": 1, "lat": 37.2464, "lng": 127.0809}
+  ]
+}
