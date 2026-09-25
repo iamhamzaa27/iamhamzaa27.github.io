@@ -681,7 +681,7 @@ button:focus-visible,
    Home Page Layout & Bio
    ========================================================================== */
 
-/* Sidebar is wide enough to hold "Saddiq Ur Rehman" on one line. */
+/* Fixed-width profile column paired with a flexible biography column. */
 .home-content {
   display: grid;
   grid-template-columns: 340px 1fr;
@@ -721,35 +721,18 @@ button:focus-visible,
 }
 
 .profile-image {
-  /* Both portraits are stacked absolutely so each one always fills the frame
-     edge to edge. In normal flow the main image left a sliver at the top that
-     let the hover portrait show through. */
+  /* Keep the portrait fitted edge to edge inside its fixed frame. */
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: opacity var(--transition-slow);
 }
 
 /* Headshot is taller than the frame; keep the face clear of the top edge. */
 .profile-image.main {
   object-position: 50% 30%;
-}
-
-/* Graduation portrait is a full-length shot, so pull the crop up off centre. */
-.profile-image.hover-1 {
-  object-position: 50% 68%;
-}
-
-.profile-image.hover {
-  opacity: 0;
-}
-
-.profile-image-container[data-hover="1"]:hover .profile-image.hover-1,
-.profile-image-container[data-hover="2"]:hover .profile-image.hover-2 {
-  opacity: 1;
 }
 
 .contact-info {
@@ -2446,14 +2429,14 @@ a.role-unit:hover {
 
 /* App Store & Demo Links (Tech Blue) */
 .doi-link[href*="autodesk.com"],
-.doi-link[href*="isaddiq.github.io/"] {
+.doi-link[href*="iamhamzaa27.github.io/"] {
   background: rgba(54, 162, 235, 0.1);
   color: #36a2eb;
   border-color: rgba(54, 162, 235, 0.35);
 }
 
 .doi-link[href*="autodesk.com"]:hover,
-.doi-link[href*="isaddiq.github.io/"]:hover {
+.doi-link[href*="iamhamzaa27.github.io/"]:hover {
   background: #36a2eb;
   color: #ffffff;
   border-color: #36a2eb;
